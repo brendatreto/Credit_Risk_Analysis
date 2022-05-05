@@ -31,3 +31,29 @@ For each of the method Balanced Accuracy Scores, Confusion Matrixes and Imbalanc
 - Balanced Accuracy Score = 64.61%
 - High Risk Precision ~1% with a sensitivity of ~64% and F1 of ~2%
 - Low Risk Precission ~100% with a sensitivity of ~68%
+
+
+### SMOTE Oversampling
+
+![SOS_acc](https://user-images.githubusercontent.com/22451540/166972148-19ab603b-bf30-40bf-84e8-ef61e817f239.PNG)
+
+![SOS_cm](https://user-images.githubusercontent.com/22451540/166972181-5e3c69f2-7a65-4077-975c-ec80e77413c9.PNG)
+
+![SOS_icr](https://user-images.githubusercontent.com/22451540/166972199-781b4dec-3d99-4c2d-9e7c-c7fc21fec30c.PNG)
+
+- Balanced Accuracy Score = 62.50%
+- High Risk Precision ~1% with a sensitivity of ~63% and F1 of ~2%
+- Low Risk Precission ~100% with a sensitivity of ~62%
+
+
+### ClusterCentroids Undersampling
+
+![cc_acc](https://user-images.githubusercontent.com/22451540/166972779-099327da-6ccd-4ba1-9314-1169bf95dc1f.PNG)
+
+![cc_cm](https://user-images.githubusercontent.com/22451540/166972803-e548cab0-91a4-4625-8e52-130d1d474785.PNG)
+
+![cc_icr](https://user-images.githubusercontent.com/22451540/166972817-ca8f6ed7-c617-4b4c-acca-d23259296798.PNG)
+
+- Balanced Accuracy Score = 52.57%
+- High Risk Precision ~1% with a sensitivity of ~59% and F1 of ~1%
+- Low Risk Precission ~100% with a sensitivity of ~47%
