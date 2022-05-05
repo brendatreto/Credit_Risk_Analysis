@@ -70,3 +70,16 @@ For each of the method Balanced Accuracy Scores, Confusion Matrixes and Imbalanc
 - Balanced Accuracy Score = 61.26%
 - High Risk Precision ~1% with a sensitivity of ~68% and F1 of ~1%
 - Low Risk Precission ~100% with a sensitivity of ~55%
+
+
+### Balanced Random Forest Classifier
+
+![brf_acc](https://user-images.githubusercontent.com/22451540/166978268-a53a4845-e84d-4372-aeae-15ef7f2008fb.PNG)
+
+![brf_cm](https://user-images.githubusercontent.com/22451540/166978288-0bbd1ac0-e9b1-405d-8ce6-d27a83d3140f.PNG)
+
+![brf_icr](https://user-images.githubusercontent.com/22451540/166978314-6e016c89-2637-4945-9be3-9e782a1786bd.PNG)
+
+- Balanced Accuracy Score = 78.77%
+- High Risk Precision ~4% with a sensitivity of ~67% and F1 of ~7%
+- Low Risk Precission ~100% with a sensitivity of ~91%
