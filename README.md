@@ -83,3 +83,22 @@ For each of the method Balanced Accuracy Scores, Confusion Matrixes and Imbalanc
 - Balanced Accuracy Score = 78.77%
 - High Risk Precision ~4% with a sensitivity of ~67% and F1 of ~7%
 - Low Risk Precission ~100% with a sensitivity of ~91%
+
+
+### Easy Ensemble Classifier
+
+![eec_acc](https://user-images.githubusercontent.com/22451540/166980073-286601fe-c011-40e2-81cf-11118d437767.PNG)
+
+![eec_cm](https://user-images.githubusercontent.com/22451540/166980103-811ac609-42e9-4af8-b9b9-aadef6214e03.PNG)
+
+![eec_icr](https://user-images.githubusercontent.com/22451540/166980123-a6c399ac-824e-49b6-b075-a38905d5c766.PNG)
+
+
+- Balanced Accuracy Score = 92.54%
+- High Risk Precision ~7% with a sensitivity of ~91% and F1 of ~14%
+- Low Risk Precission ~100% with a sensitivity of ~94%
+
+
+## Summary
+All six models used in the credit analysis show a significant weak precision in determining if a credit risk is high (The highest being ~7% using the EasyEnsembleClassifier Model) 
+This model, the EasyEnsembleClassifier also shows the highest Balanced Accuracy Score, however a significant amount of Actual High Risk Loans are wrongly classified wich would provide insufficient information for credit loaners to truly determine the risk. 
