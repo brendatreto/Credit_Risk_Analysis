@@ -57,3 +57,16 @@ For each of the method Balanced Accuracy Scores, Confusion Matrixes and Imbalanc
 - Balanced Accuracy Score = 52.57%
 - High Risk Precision ~1% with a sensitivity of ~59% and F1 of ~1%
 - Low Risk Precission ~100% with a sensitivity of ~47%
+
+
+### SMOTEENN (Over and Under) Sampling
+
+![com_acc](https://user-images.githubusercontent.com/22451540/166974028-563521f5-bd65-4c4d-868b-bf87882b787b.PNG)
+
+![com_cm](https://user-images.githubusercontent.com/22451540/166974047-a1a6f28e-e670-409f-a275-1ba679434c0c.PNG)
+
+![com_icr](https://user-images.githubusercontent.com/22451540/166974080-e7f855a8-d4e3-4408-abaf-b4c4bb510ca2.PNG)
+
+- Balanced Accuracy Score = 61.26%
+- High Risk Precision ~1% with a sensitivity of ~68% and F1 of ~1%
+- Low Risk Precission ~100% with a sensitivity of ~55%
