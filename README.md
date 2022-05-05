@@ -23,9 +23,11 @@ For each of the method Balanced Accuracy Scores, Confusion Matrixes and Imbalanc
 ### Naive Random Oversampling
 
 ![ROS_acc](https://user-images.githubusercontent.com/22451540/166970693-80128886-619b-4c2b-bb02-d06c141c7d8d.PNG)
+
 ![ROS_cm](https://user-images.githubusercontent.com/22451540/166970709-2aca8eab-0852-4c9c-a9bf-a1d6c70bd5f2.PNG)
+
 ![ROS_icr](https://user-images.githubusercontent.com/22451540/166970720-9e5b0249-270f-4686-8b0d-aadc784be6a6.PNG)
 
-Balanced Accuracy Score = 64.61%
-High Risk Precision ~1% with a sensitivity of ~64% and F1 of ~2%
-Low Risk Precission ~100% with a sensitivity of ~68%
+- Balanced Accuracy Score = 64.61%
+- High Risk Precision ~1% with a sensitivity of ~64% and F1 of ~2%
+- Low Risk Precission ~100% with a sensitivity of ~68%
